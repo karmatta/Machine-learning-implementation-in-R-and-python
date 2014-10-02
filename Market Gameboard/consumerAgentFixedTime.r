@@ -4,7 +4,7 @@
 # Package version      : 0.1
 # Script version       : 0.1
 # Date                 : 29/05/2013
-# Author(s)             : Avinash Joshi
+# Author(s)            : Karthik D
 # Task id(s)  	       : 211 - http://182.71.223.28/agilefant/qr.action?q=story:211
 # Git link             : https://github.com/Mu-Sigma/labs/blob/mint-dev/Market_Gameboard/consumerAgentGameboardFixedTime.R
 #******************************************************************************

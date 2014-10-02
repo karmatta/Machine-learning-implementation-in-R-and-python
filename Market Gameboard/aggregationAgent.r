@@ -3,7 +3,7 @@
 # Script Details       : Aggregates a set of statistics 
 # Script version       : 0.2
 # Date                 : 25/11/2013
-# Author(s)            : Avinash Joshi/Karthik Matta
+# Author(s)            : Karthik D Matta
 # Task id(s)		   : 211 - http://182.71.223.28/agilefant/qr.action?q=story:211
 # Comment(s)           : This agent is made for Gameboard 2.0
 #                      : writes it to Hbase.
